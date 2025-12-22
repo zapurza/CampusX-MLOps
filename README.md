@@ -1,2 +1,2 @@
 # CampusX-MLOPs
-This is a main repository for a MLOPs Session
+This is a main repository for a MLOps Session
